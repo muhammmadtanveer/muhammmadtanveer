@@ -21,7 +21,7 @@
  
 I'm **Muhammad Tanveer** — a final-year **BS Information Technology** student from Pakistan who lives at the intersection of **code**, **marketing**, and **strategy**.
  
-By day I run **Upskillz Solutions** (client brand: **Optima Professionals**), a digital marketing agency helping businesses grow through Meta Ads, social media systems, and marketing automation. By night I'm a **vibe coder** — shipping real tools with modern stacks, mostly powered by curiosity (and a little Claude 😄).
+By day I run **Upskillz Solutions**, a digital marketing agency helping businesses grow through Meta Ads, social media systems, and marketing automation. By night I'm a **vibe coder** — shipping real tools with modern stacks, mostly powered by curiosity (and a little Claude 😄).
  
 My next mission? **Masters degree abroad on a scholarship** — targeting 🇬🇧 UK · 🇩🇪 Germany · 🇮🇹 Italy · 🇦🇺 Australia.
  

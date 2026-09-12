@@ -1,176 +1,95 @@
-<div align="center">
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,1a1a2e&height=200&section=header&text=Muhammad%20Tanveer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder%20%E2%80%A2%20Digital%20Marketing%20Expert%20%E2%80%A2%20BS%20IT%20Final%20Year%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=13&animation=fadeIn" />
- 
-<a href="https://www.upwork.com" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20%E2%AD%90-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/BS%20Information%20Technology-Final%20Year-FF6B00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Featured%20by-Google%20Pakistan-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=muhammadtanveer&style=for-the-badge&color=FF6B00&label=PROFILE+VIEWS" />
- 
-<br/><br/>
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FF6B00&center=true&vCenter=true&width=750&lines=BS+IT+Final+Year+%40+SBBU+Pakistan+%F0%9F%8E%93;Vibe+Coder+%E2%80%94+I+build+things+that+actually+work+%F0%9F%92%BB;Founder+%40+Upskillz+Solutions+%7C+Optima+Professionals;Meta+Ads+Specialist+%7C+340%25+Engagement+Growth+%F0%9F%93%88;Targeting+Masters+Scholarship+%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AE%F0%9F%87%B9%F0%9F%87%A6%F0%9F%87%BA;From+Unknown+to+Inbound+%E2%80%94+That%27s+the+mission+%F0%9F%9A%80" alt="Typing SVG" />
- 
-</div>
- 
----
- 
-## 🧠 Who Am I?
- 
-I'm **Muhammad Tanveer** — a final-year **BS Information Technology** student from Pakistan who lives at the intersection of **code**, **marketing**, and **strategy**.
- 
-By day I run **Upskillz Solutions**, a digital marketing agency helping businesses grow through Meta Ads, social media systems, and marketing automation. By night I'm a **vibe coder** — shipping real tools with modern stacks, mostly powered by curiosity (and a little Claude 😄).
- 
-My next mission? **Masters degree abroad on a scholarship** — targeting 🇬🇧 UK · 🇩🇪 Germany · 🇮🇹 Italy · 🇦🇺 Australia.
- 
----
- 
-## ⚡ Three Sides of Me
- 
-```
-🎓  STUDENT           Final Year BS IT @ Shaheed Benazir Bhutto University
-                      Scholarship hunter. Research enthusiast. Always building.
- 
-💻  VIBE CODER        I ship projects with React, TypeScript, Node.js & more
-                      I build what I need — then I build what others need.
- 
-📈  MARKETING EXPERT  Founder of Upskillz Solutions | Top Rated on Upwork
-                      Featured by Google Pakistan & DgSkills PK
-```
- 
----
- 
-## 🚀 Projects I've Built
- 
-### 📊 Meta Ads Dashboard
-> Full-stack analytics dashboard for tracking Meta Ads performance in real time.
- 
-**Stack:** `React 19` · `TypeScript` · `Express` · `tRPC` · `Drizzle ORM` · `MySQL` · `AWS S3`
- 
-- Campaign, ad set & creative-level performance tracking
-- Custom KPI views with filterable date ranges
-- Marketing automation layer in progress (Node.js / Python)
- 
----
- 
-### 🤖 Marketing Automation System
-> Automates client reporting, lead nurturing, and onboarding flows.
- 
-**Stack:** `Node.js` · `Python` · `Make.com` · `GoHighLevel` · `Zapier`
- 
-- Auto-generates performance reports
-- Lead capture → CRM → follow-up sequence automation
-- Integrated with Meta Ads API
- 
----
- 
-### 🎂 Animated Tribute Webpage
-> Cosmic-aesthetic animated webpage built with pure HTML/CSS/JS.
- 
-**Stack:** `HTML` · `CSS Animations` · `Vanilla JS`
- 
-- Animated star/cosmic background with particle effects
-- Custom typography and fully responsive layout
- 
----
- 
-### 📚 BS IT Final Year Project *(In Progress)*
-> Capstone project — details dropping soon. Building something impactful.
- 
----
- 
-### 🔜 More Side Projects Coming...
-> Actively building. Star this profile to stay updated ⭐
- 
----
- 
-## 🛠️ Tech Stack
- 
-**Frontend**
- 
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# Hi, I'm Muhammad Tanveer — Bridging IT Infrastructure & Growth Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IT%20Student-Final%20Year-0F172A?style=flat-square&logo=academia&logoColor=white" alt="Final-year IT student" />
+  <img src="https://img.shields.io/badge/Marketing%20Automation-Specialist-2563EB?style=flat-square&logo=zapier&logoColor=white" alt="Marketing Automation Specialist" />
+  <img src="https://img.shields.io/badge/Remote-Pakistan-16A34A?style=flat-square&logo=googlemaps&logoColor=white" alt="Remote from Pakistan" />
+  <img src="https://img.shields.io/badge/Featured%20by-Google%20Pakistan-4285F4?style=flat-square&logo=google&logoColor=white" alt="Featured by Google Pakistan" />
+</p>
+
+Final-year **BS Information Technology** student with a **3.87 CGPA**, combining data-minded systems thinking with 3+ years of hands-on growth automation delivery. I design reliable CRM workflows, API integrations, and performance systems—and have deployed **70+ client projects** for teams across the US and Europe.
+
+> **Focus:** turning fragmented marketing operations into measurable, automated systems through APIs, data, and practical IT engineering.
+
+## 🚀 The Tech Strategy — What I Do
+
+<table>
+  <tr>
+    <th align="left">Core IT & Data</th>
+    <th align="left">Growth Engine</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><strong>API Integration</strong> — connecting services into dependable business workflows</li>
+        <li><strong>Webhooks</strong> — event-driven lead capture, routing, and lifecycle automation</li>
+        <li><strong>Database Architecture</strong> — structured CRM data and operational visibility</li>
+        <li><strong>CRM Systems</strong> — GoHighLevel pipelines, automations, and client operations</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><strong>Meta Ads</strong> — full-funnel campaign systems built for measurable returns</li>
+        <li><strong>High-Converting Funnels</strong> — acquisition journeys that connect intent to action</li>
+        <li><strong>A/B Testing Analytics</strong> — evidence-led creative, audience, and landing-page iteration</li>
+        <li><strong>A2P 10DLC Compliance</strong> — compliant messaging workflows that protect deliverability</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech Stack & Tools Visualized
+
+**Languages & Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-**Backend & Database**
- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
-**Marketing & Automation**
- 
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0081FB?style=for-the-badge&logo=meta&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**Automation & CRM**
+
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1F2937?style=for-the-badge&logo=highlevel&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Cloud & Data Analytics**
+
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Meta Ads Manager](https://img.shields.io/badge/Meta%20Ads%20Manager-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0EA5E9?style=for-the-badge&logo=webhooks&logoColor=white)
+
+**Design & Creative**
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
- 
----
- 
-## 📈 GitHub Stats
- 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadtanveer&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FFA500&border_color=FF6B00&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtanveer&layout=compact&theme=dark&title_color=FF6B00&border_color=FF6B00" />
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtanveer&theme=dark&ring=FF6B00&fire=FFA500&currStreakLabel=FF6B00&border=FF6B00" />
-</div>
- 
----
- 
-## 🏆 Achievements & Recognition
- 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| ⭐ Top Rated Freelancer | Upwork — Digital Marketing |
-| 🇵🇰 Featured by Google Pakistan | Personal brand & digital marketing |
-| 🎓 DgSkills PK Featured | Recognized as digital marketing expert |
-| 📈 340% Engagement Growth | Instagram — local retail brand in 60 days |
-| 📅 27 New Client Bookings | Generated via organic content in 60 days |
-| 🌍 8K → 31K Monthly Reach | Grew a client's reach 4x through content strategy |
- 
----
- 
-## 🎯 Current Mission
- 
-```
-🎓  Finishing BS IT strong — Final Year @ SBBU SBA (Shaheed Benazir Bhutto Univeristy, Shaheed Benazir Abbad)
-🌍  Applying for Masters Scholarship → UK · Germany · Italy · Australia
-💻  Shipping more projects (watch this space)
-📈  Scaling Upskillz Solutions to retainer clients
-✍️  Building personal brand: "From Unknown to Inbound"
-🏔️  Exploring World 
-```
- 
----
- 
-## 🤝 Let's Connect
- 
-I'm open to:
-- 🧩 Freelance — Meta Ads, Social Media Management, Automation
-- 🏢 Agency white-label partnerships
-- 🎓 Research collaborations or scholarship connections
-- 💬 Good conversations about marketing, tech, or travel
- 
-<div align="center">
- 
-📧 **Email:** captaintanveer49@email.com &nbsp;|&nbsp; 💼 **Upwork:** [View Profile](https://www.upwork.com/freelancers/~0104381ee83a8b4aab) &nbsp;|&nbsp; 🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/social-media-marketing-social-media-management-expert/)
- 
-<br/>
- 
-> *"I don't wait to be discovered. I build until I am."* — Captain Tanveer
- 
-<br/>
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e,FF8C00,FF6B00&height=120&section=footer&animation=fadeIn" />
- 
-</div>
+
+## 📊 Impact by the Numbers
+
+> ⚡ **4.2× average ROAS** achieved for e-commerce clients  
+> 📉 **28% reduction in CPC** through data-driven A/B testing  
+> 📈 **65% average increase in organic engagement** within 90 days  
+> 🌐 **70+ globally deployed projects** supporting clients across the US and Europe
+
+## 🏆 Certifications & Highlights
+
+- **Google Prompting Essentials**
+- **Google Digital Marketing & E-commerce**
+- **LinkedIn Marketing Strategy**
+- **HubSpot Social Media**
+- Featured by **Google Pakistan** and **DigiSkills.pk**
+- **12+ professional certifications** across marketing, analytics, and automation
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:captaintanveer49@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Tanveer" /></a>
+  <a href="https://www.linkedin.com/in/social-media-marketing-social-media-management-expert/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/muhammmadtanveer?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-View%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><i>Building the systems behind sustainable growth.</i></p>
